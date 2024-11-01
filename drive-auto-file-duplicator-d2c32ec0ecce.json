@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "drive-auto-file-duplicator",
+  "private_key_id": "d2c32ec0eccee05b29e020ebdb5c897f33861cc4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC641ae+mdWtGqB\njCBjDXzcO4Arm7yUXGXYRlfAVGbNCeBhMez07p8dOTGYzBupKpzvfpLoKdPucNZp\nY0535CbRkuxKUsQboExEKQJzlwl9TZwakSCzeDa+54C0Lwr+rL5aiX/e0lQh/jDx\nqbBSlZlPobKjm2M6QFhspK+wYVrSwpQnW2FPXybckrpELJCnObnFr1hv0KquvySi\nccP5r8P8A1ahaf112x0uE5nxaUe7xYnjaXkTwtmC/1+r9t4lTJuVBTmsJQOzvA/e\nWRqJ9rdmzFv4vGO9H15wEjeRf5Ie5uhJxqSkuHIyl+BZBE3bgZrLP3mIkf+Jiv9g\ngjBk3YtLAgMBAAECggEADOdXesCVVAI+/FTdg5lRzq75CYnGOoQqsAUjV+877dpJ\nuMxGrR6ws8bYKtGk80gy78JQiGEi9eqqkzo9F8AUAhJf6D3QtouZ2HbwaWS7TgCG\nz7rHhDy/ouy/ETHSU4U/22Z1AsCI+JPhcz4hI4KaxEnI2M0Iy+PXdyDj1IzURYr1\nVe2l3w+gyBNtp0UMwMgkyTawIi+FZb2rHw4LP2zVQXyUJhgJYLnpUIFD8Jk2vnRw\nN5+DfmGKV+BRKAnbKm496v1NTm5iaBT+guDKjX6316BqNqw2lXGHCxIkXoU2zfpt\nqtvdsG4IC8caFAEx3xpUu45BY9hg5asdNIdtb/lDKQKBgQD4lLnXCWu+YfA7JMp8\n/5IM+rszlrjYyFHdtvTMU3LI0TDnvlQ6B9MfL/g2D7T6qbPbEYwwWx4vevaGpf8p\nmIP8H0pOYEHSbvBpfIB/kkoey5W6H3YRKSymMnO5EcrH1Vl5/aDOSNR0JwOGX9zV\ncavjmJp2OdcUloUEhkWNwuyLVwKBgQDAdz/11ob2qvAE4cpJLxmyfJIxlZ59s8n0\nOTZYXYkJEQiKATqRF4MnGUlcMfmV5pwGu7PO7BFNkJ/05PvhVz22aoQU5NN5UYCK\nuXaJhrxq/Ni6OjgqFwZvypeuJ1w7ievROutAa2hoE6lKziRdowUw5WvDM+1Ioljs\n5hTr/LQ7LQKBgQDFbMmUQcUytXIoZvXzBL+oU1JujJxOf/qVDoOp6/TUDWC8DWuz\nkxdYQ67ssNjZ5AIWUP94QEXfC9fT5O6cyKa6jNdlHAnq6XVDMkCUEUmQ37wQ0H/i\n7UKq1JMYP0tAHvArdQZMD4e8oGeqR2SKmPcdkcvLbfCmR01p5IJFLrTTjQKBgBal\n8cDcHcWpF9V7PHKgOEXoosty79Oa9IjospxzZUzL1FVpD5tDSQuwzhErUFNzb6jb\nLa2L2f1mp2wKBhneSkTNA/3xb3E3RgkNCgXk9Qch+d7wOuu5CejdzjuQJipbcISO\nimBqQz78EU/cMitSo6m9VZEC60lA0XYPHScn9Y2BAoGADzroxmUwbDoNOCGwn0nn\nMNEIx5svB818b+dIHfjg2MjsesoMpwjZDP7ZfsSNTjjbPQwJVjmDALKJqcZ3opuu\nrukoxyqxdoihRCn8Lyvv+chfw9q444gAa7hx2F4tDc0tQg/uUqe4qF2YkllvD3Zj\nVA8OdzD9umHgJEL94DqMZFg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tran-the-bach@drive-auto-file-duplicator.iam.gserviceaccount.com",
+  "client_id": "104181546058296958788",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tran-the-bach%40drive-auto-file-duplicator.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
